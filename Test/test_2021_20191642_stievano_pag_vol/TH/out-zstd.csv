@@ -1,0 +1,9 @@
+Compressor name,Compression speed,Decompression speed,Original size,Compressed size,Ratio,Filename
+blosc-zstd -1 -p1 -c1048576,357.5,508.0,16083738624,11133648647,1.44,/tmp/027_cellinsitu2_dcm16p9kev_200ms_45KADU_1500proj_180deg_He_53_0_pag.vol
+blosc-zstd -1 -p2 -c1048576,289.9,419.9,16083738624,11133648647,1.44,/tmp/027_cellinsitu2_dcm16p9kev_200ms_45KADU_1500proj_180deg_He_53_0_pag.vol
+blosc-zstd -1 -p4 -c1048576,412.7,495.8,16083738624,11133648647,1.44,/tmp/027_cellinsitu2_dcm16p9kev_200ms_45KADU_1500proj_180deg_He_53_0_pag.vol
+blosc-zstd -1 -p8 -c1048576,524.8,633.0,16083738624,11133648647,1.44,/tmp/027_cellinsitu2_dcm16p9kev_200ms_45KADU_1500proj_180deg_He_53_0_pag.vol
+blosc-zstd -1 -p16 -c1048576,770.7,385.7,16083738624,11133648647,1.44,/tmp/027_cellinsitu2_dcm16p9kev_200ms_45KADU_1500proj_180deg_He_53_0_pag.vol
+blosc-zstd -1 -p32 -c1048576,904.0,484.6,16083738624,11133648647,1.44,/tmp/027_cellinsitu2_dcm16p9kev_200ms_45KADU_1500proj_180deg_He_53_0_pag.vol
+blosc-zstd -1 -p64 -c1048576,880.4,490.6,16083738624,11133648647,1.44,/tmp/027_cellinsitu2_dcm16p9kev_200ms_45KADU_1500proj_180deg_He_53_0_pag.vol
+blosc-zstd -1 -p128 -c1048576,880.0,282.7,16083738624,11133648647,1.44,/tmp/027_cellinsitu2_dcm16p9kev_200ms_45KADU_1500proj_180deg_He_53_0_pag.vol

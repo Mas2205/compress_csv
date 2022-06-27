@@ -1,0 +1,9 @@
+Compressor name,Compression speed,Decompression speed,Original size,Compressed size,Ratio,Filename
+blosc-zstd -1 -p1 -c1048576,364.2,248.9,34359738368,18126279724,1.90,/tmp/034_20EH09985-amydale_gap11p7_200ms_Au20_movingcorr_0_pag.vol
+blosc-zstd -1 -p2 -c1048576,332.9,222.2,34359738368,18126279724,1.90,/tmp/034_20EH09985-amydale_gap11p7_200ms_Au20_movingcorr_0_pag.vol
+blosc-zstd -1 -p4 -c1048576,517.1,228.3,34359738368,18126279724,1.90,/tmp/034_20EH09985-amydale_gap11p7_200ms_Au20_movingcorr_0_pag.vol
+blosc-zstd -1 -p8 -c1048576,663.4,207.1,34359738368,18126279724,1.90,/tmp/034_20EH09985-amydale_gap11p7_200ms_Au20_movingcorr_0_pag.vol
+blosc-zstd -1 -p16 -c1048576,848.8,184.7,34359738368,18126279724,1.90,/tmp/034_20EH09985-amydale_gap11p7_200ms_Au20_movingcorr_0_pag.vol
+blosc-zstd -1 -p32 -c1048576,953.6,172.3,34359738368,18126279724,1.90,/tmp/034_20EH09985-amydale_gap11p7_200ms_Au20_movingcorr_0_pag.vol
+blosc-zstd -1 -p64 -c1048576,972.4,164.8,34359738368,18126279724,1.90,/tmp/034_20EH09985-amydale_gap11p7_200ms_Au20_movingcorr_0_pag.vol
+blosc-zstd -1 -p128 -c1048576,949.0,210.2,34359738368,18126279724,1.90,/tmp/034_20EH09985-amydale_gap11p7_200ms_Au20_movingcorr_0_pag.vol

@@ -1,0 +1,4 @@
+Compressor name,Compression speed,Decompression speed,Original size,Compressed size,Ratio,Filename
+blosc-lz4 -1 -p8 -c1048576,855.4,1066.9,16083738624,11561795904,1.39,/tmp/027_cellinsitu2_dcm16p9kev_200ms_45KADU_1500proj_180deg_He_53_0_pag.vol
+blosc-lz4 -5 -p8 -c1048576,559.0,790.4,16083738624,11312257253,1.42,/tmp/027_cellinsitu2_dcm16p9kev_200ms_45KADU_1500proj_180deg_He_53_0_pag.vol
+blosc-lz4 -9 -p8 -c1048576,458.0,650.6,16083738624,11305996961,1.42,/tmp/027_cellinsitu2_dcm16p9kev_200ms_45KADU_1500proj_180deg_He_53_0_pag.vol

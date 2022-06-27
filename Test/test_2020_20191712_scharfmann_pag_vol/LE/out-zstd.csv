@@ -1,0 +1,4 @@
+Compressor name,Compression speed,Decompression speed,Original size,Compressed size,Ratio,Filename
+blosc-zstd -1 -p8 -c1048576,585.3,424.7,16374562816,10840943761,1.51,/tmp/322_S027_II_tz_61p5_200ms_20x_11p813deg_7p032mm_0_pag.vol
+blosc-zstd -5 -p8 -c1048576,157.0,800.0,16374562816,10348014920,1.58,/tmp/322_S027_II_tz_61p5_200ms_20x_11p813deg_7p032mm_0_pag.vol
+blosc-zstd -9 -p8 -c1048576,7.2,726.5,16374562816,10164345289,1.61,/tmp/322_S027_II_tz_61p5_200ms_20x_11p813deg_7p032mm_0_pag.vol

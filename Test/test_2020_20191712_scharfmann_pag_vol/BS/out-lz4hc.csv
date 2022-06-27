@@ -1,0 +1,4 @@
+Compressor name,Compression speed,Decompression speed,Original size,Compressed size,Ratio,Filename
+blosc-lz4hc-bs -1 -p8 -c1048576,352.9,430.8,34359738368,22762545987,1.51,/tmp/322_S027_II_tz_61p5_200ms_20x_11p813deg_7p032mm_0_pag.vol
+blosc-lz4hc-bs -5 -p8 -c1048576,218.9,510.7,34359738368,22539180318,1.52,/tmp/322_S027_II_tz_61p5_200ms_20x_11p813deg_7p032mm_0_pag.vol
+blosc-lz4hc-bs -9 -p8 -c1048576,79.8,571.0,34359738368,22427263349,1.53,/tmp/322_S027_II_tz_61p5_200ms_20x_11p813deg_7p032mm_0_pag.vol

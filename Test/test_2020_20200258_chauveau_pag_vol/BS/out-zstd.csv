@@ -1,0 +1,4 @@
+Compressor name,Compression speed,Decompression speed,Original size,Compressed size,Ratio,Filename
+blosc-zstd-bs -1 -p8 -c1048576,479.1,449.9,28355067904,14858369252,1.91,/tmp/034_20EH09985-amydale_gap11p7_200ms_Au20_movingcorr_0_pag.vol
+blosc-zstd-bs -5 -p8 -c1048576,265.5,337.3,28355067904,14281834648,1.99,/tmp/034_20EH09985-amydale_gap11p7_200ms_Au20_movingcorr_0_pag.vol
+blosc-zstd-bs -9 -p8 -c1048576,10.0,311.0,28355067904,14087197044,2.01,/tmp/034_20EH09985-amydale_gap11p7_200ms_Au20_movingcorr_0_pag.vol
